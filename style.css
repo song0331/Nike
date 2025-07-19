@@ -94,13 +94,13 @@
       }
       
       h3, h4, s{
-        margin-top: 10px;
         padding-left: 10px;
         text-align: left;
         color: #f5f5f5;
       }
       
       h3{
+        margin: 10px 0;
         font-size: 18px;
         font-weight: 700;
       }
